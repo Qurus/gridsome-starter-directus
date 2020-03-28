@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@pienter/gridsome-source-directus": "^0.1.1",
-    "gridsome": "^0.6.3"
+    "gridsome": "^0.7.13"
   }
 }
